@@ -26,3 +26,7 @@ elif(num2>num1 and num2>num3):<br>
    print("2nd number is greatest")<br>
 esle:<br>
    print("3rd number is greatest") <br>
+
+
+   
+//is it enough or do we have to add anything else
