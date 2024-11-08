@@ -1,7 +1,7 @@
 # practical-03
 **(introduction to project)**<br>
 
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Hello World</title>
